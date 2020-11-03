@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,TV5 HD
+https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+#EXTINF:0,NBT2 HD
+https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
+#EXTINF:0,TPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0,ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0,TPTV
+http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
+#EXTINF:0,TNN24
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:0,NATION TV
+https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
+#EXTINF:0,Workpoint TV
+https://doofootball.livestream-cdn.com/iptv/hd-workpoint.stream/chunks.m3u8
+#EXTINF:0,True4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:0,GMM25
+https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8
+#EXTINF:0,CH 7
+https://128-b.in.net/CH7
+#EXTINF:0,CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,MONO29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w962152191.m3u8
+#EXTINF:0,MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:0,ONE31 HD
+https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
+#EXTINF:0,Thairath TV HD
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:0,3 HD
+http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
+#EXTINF:0,Amarin TV HD
+https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8
+#EXTINF:0,CH7 HD
+https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+#EXTINF:0,PPTV HD
+https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/playlist.m3u8
+#EXTINF:0,MONO PLUS
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w1333818789.m3u8
+#EXTINF:0,M CHANNWL
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+#EXTINF:0,GMM25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:0,VOICE TV
+http://streamarchive.voicetv.co.th/hls/live/caf8145ec522e12d61231d6de2eff038/playlist.m3u8
+#EXTINF:0,CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w789420607.m3u8
+#EXTINF:0,TVB HD
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:0,CH8 DRAMA
+http://vip2.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:0,M Channel
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+#EXTINF:0,FOX THAI
+https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:0,Amarin TV HD
+https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8
+#EXTINF:0,CH7 HD
+https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
+#EXTINF:0,PPTV HD
+https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/playlist.m3u8
+#EXTINF:0,News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:0,PSI
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/chunklist_w1357463952.m3u8
+#EXTINF:0,Major TV
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w1362734836.m3u8
+#EXTINF:0,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:0,EPL_01
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,EPL_02
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
