@@ -116,3 +116,27 @@ https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png",EPL_02
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",True Premiere Football HD 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl1_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png",True Premiere Football HD 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102012011808579.jpg",TrueSport HD
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102102076396902.jpg",TrueSport HD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210219558958694.jpg",TrueSport HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210227112975786.jpg",TrueSport HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102381219585376.jpg",TrueSport 2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312102451734108811.jpg",TrueSport 5
+https://livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/20191031210252320946587.jpg",TrueSport 6
+https://livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://www.doohdbox.com/assets/201910312103032084179461.jpg",TrueSport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
