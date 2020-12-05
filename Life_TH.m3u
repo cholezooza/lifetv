@@ -48,7 +48,8 @@ https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXnVYFi.png", CH3 HD
-http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
+https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT50yEiJ74fm9ZoXZxfvSpXTWIKVdTgHaXh2g&usqp=CAU",Amarin TV HD
 https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8
@@ -80,7 +81,7 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist_w789420607.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT54m3mY78H-pIbE1zdWwEmspcoHIjBQp-CRA&usqp=CAU",TVB HD
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/aDl8QyTqCXkFMdbValPhs68FZhyhdGw7abx1XMteth2Ao6-c_2Ybw5ahwOl_5OJK_W96Uits_jLrAAA5yJ09eQDhR8W-fB0dUQP21j1esEr_sxOCph6jfSauMI3iRQLwrqNtJe0",CH8 DRAMA
+#EXTINF:-1 tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CH8 หนังดัง
 http://vip2.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",FOX THAI
